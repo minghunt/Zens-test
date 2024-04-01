@@ -1,4 +1,4 @@
-# My Awesome Project
+# My Test Project
 
 This project consists of a frontend application and a backend server.
 
@@ -8,7 +8,7 @@ The frontend application is built using [React](https://reactjs.org/) and intera
 
 ### Deployment
 
-The frontend application is deployed at: [Frontend Deployment URL](https://zens-fe.vercel.app/)
+The frontend application is deployed at: [HL Solution](https://zens-fe.vercel.app/)
 
 ## Backend Server
 
@@ -16,7 +16,7 @@ The backend server is built using Node.js and Express. It provides API endpoints
 
 ### Deployment
 
-The backend server is deployed at: [Backend Deployment URL](https://zens-be.vercel.app/)
+The backend server is deployed at: [Server Manage Jokes](https://zens-be.vercel.app/)
 
 
 
